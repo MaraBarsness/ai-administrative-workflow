@@ -6,7 +6,8 @@ This project explores how artificial intelligence can assist with organizing com
 The goal is to develop a practical, human-in-the-loop workflow that can help identify priorities, extract actionable information, organize follow-up items, and support routine communication.
 
 This is an exploratory prototype and learning project rather than a production automation system.
-The Problem
+
+The Problem.
 
 Administrative work often involves information arriving from multiple sources at different times. Important requests, deadlines, follow-ups, and commitments can become difficult to track when information is scattered across emails, messages, documents, meetings, and task lists.
 
@@ -100,7 +101,8 @@ AI may suggest:
 A human reviews those suggestions before consequential action is taken.
 
 This approach recognizes that an AI system can misunderstand context, infer incorrect priorities, or miss information that a person considers important.
-What I Am Learning
+
+What I Am Learning.
 
 This project is part of my exploration of practical AI applications in administrative and business environments.
 
